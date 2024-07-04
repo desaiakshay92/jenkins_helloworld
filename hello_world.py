@@ -1,1 +1,1 @@
-printsl("Hello Akshay Welcome to Infoblox!! V3")
+print("Hello Akshay Welcome to Infoblox!! V3")
